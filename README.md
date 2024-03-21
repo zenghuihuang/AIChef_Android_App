@@ -3,4 +3,4 @@ This is an Android application integrated with a machine learning model that rec
 ## App Demo Video
 [Link to the video](https://github.com/zenghuihuang/AIChef_Android_App/blob/main/Final%20demo%20video%202.mov)
 
-[Video Demo] (https://www.youtube.com/watch?v=NSVf4INgz1U)
+[![Watch the video](https://img.youtube.com/vi/NSVf4INgz1U/0.jpg)](https://www.youtube.com/watch?v=NSVf4INgz1U)

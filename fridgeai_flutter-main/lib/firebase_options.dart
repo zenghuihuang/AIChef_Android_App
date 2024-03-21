@@ -52,12 +52,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA7-TncBm03EGbvH5oDqUhNcNUEKt-HoJw',
-    appId: '1:111883783423:android:36d3cb0fe21424abac10ca',
-    messagingSenderId: '111883783423',
-    projectId: 'fridgeaiflutter',
-    databaseURL: 'https://fridgeaiflutter-default-rtdb.firebaseio.com',
-    storageBucket: 'fridgeaiflutter.appspot.com',
-  );
+
 }

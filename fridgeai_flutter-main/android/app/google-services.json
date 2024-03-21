@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "111883783423",
+    "firebase_url": "https://fridgeaiflutter-default-rtdb.firebaseio.com",
+    "project_id": "fridgeaiflutter",
+    "storage_bucket": "fridgeaiflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111883783423:android:36d3cb0fe21424abac10ca",
+        "android_client_info": {
+          "package_name": "com.example.fridge_ai_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7-TncBm03EGbvH5oDqUhNcNUEKt-HoJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
